@@ -19,7 +19,7 @@ git --version
    ```typescript
    export default defineConfig({
      plugins: [react()],
-     base: 'calendar-view-pradeep',
+     base: '/calendar-view-pradeep/',
    })
    ```
 
